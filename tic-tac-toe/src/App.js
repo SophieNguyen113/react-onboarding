@@ -1,3 +1,8 @@
+  // Prolog
+  // Author:  Sophie Nguyen
+  // Email:  nnguyen177@student.gsu.edu
+  // Section: CodeDay Labs 311 (CL311) - Andrey Butenko
+
 import React, { useState } from "react";
 
 import { Board } from "./components/Board";
